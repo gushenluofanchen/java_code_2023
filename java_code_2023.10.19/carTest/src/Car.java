@@ -1,24 +1,18 @@
-package test3;
-
 public class Car {
     private String brand;
     private int price;
     private String color;
 
+    public Car (){
 
-    public Car() {
-    }//空参构造
+    }
 
-    public Car(String brand, int price, String color) {
+    public Car(String brand,int price,String clor){
         this.brand = brand;
         this.price = price;
         this.color = color;
-    }//全参构造
+    }
 
-
-
-
-    //成员方法，包括get和set
     public String getBrand() {
         return brand;
     }
@@ -42,12 +36,6 @@ public class Car {
     public void setColor(String color) {
         this.color = color;
     }
-
-
-
-
-
-
 
 
 }
