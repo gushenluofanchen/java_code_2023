@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StringTest1/StringTest1.iml" filepath="$PROJECT_DIR$/StringTest1/StringTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringTest2/StringTest2.iml" filepath="$PROJECT_DIR$/StringTest2/StringTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringTest3/StringTest3.iml" filepath="$PROJECT_DIR$/StringTest3/StringTest3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_code_2023.10.26.iml" filepath="$PROJECT_DIR$/java_code_2023.10.26.iml" />
+    </modules>
+  </component>
+</project>
